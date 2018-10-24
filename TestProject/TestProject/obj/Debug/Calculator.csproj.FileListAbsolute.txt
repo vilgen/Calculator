@@ -1,0 +1,18 @@
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\bin\Debug\Calculator.exe.config
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\bin\Debug\Calculator.exe
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\bin\Debug\Calculator.pdb
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Debug\Calculator.frm_calc.resources
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Debug\Calculator.exe.licenses
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Debug\Calculator.exe
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Debug\Calculator.pdb
+C:\Users\iakademi\Downloads\TestProject\TestProject\bin\Debug\Calculator.exe.config
+C:\Users\iakademi\Downloads\TestProject\TestProject\bin\Debug\Calculator.exe
+C:\Users\iakademi\Downloads\TestProject\TestProject\bin\Debug\Calculator.pdb
+C:\Users\iakademi\Downloads\TestProject\TestProject\obj\Debug\Calculator.frm_calc.resources
+C:\Users\iakademi\Downloads\TestProject\TestProject\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\iakademi\Downloads\TestProject\TestProject\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\iakademi\Downloads\TestProject\TestProject\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\iakademi\Downloads\TestProject\TestProject\obj\Debug\Calculator.exe
+C:\Users\iakademi\Downloads\TestProject\TestProject\obj\Debug\Calculator.pdb

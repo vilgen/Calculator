@@ -1,0 +1,10 @@
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\bin\Release\TestProject.dll.config
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\bin\Release\TestProject.dll
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\bin\Release\TestProject.pdb
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Release\TestProject.frm_calc.resources
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Release\TestProject.Properties.Resources.resources
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Release\TestProject.dll.licenses
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Release\TestProject.dll
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Release\TestProject.pdb
+C:\Users\evilgenoglu\Documents\Visual Studio 2012\Projects\TestProject\TestProject\bin\Release\TestProject.exe.config
